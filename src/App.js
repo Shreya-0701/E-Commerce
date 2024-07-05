@@ -17,6 +17,7 @@ import PageNotFound from './pages/PageNotFound';
 
 function App() {
   return (
+    
     <Provider store={store}>
       <Router>
         <Navbar />
